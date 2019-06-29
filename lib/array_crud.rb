@@ -11,7 +11,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  famous_cats = ["I' am", "really", "Maru"]
+  famous_cats = ["I' am", "really", "learning"]
  
 famous_cats.unshift("nala cat")
 
